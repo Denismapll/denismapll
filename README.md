@@ -12,7 +12,7 @@
 # 💫Sobre mim :
 🔭 Atualmente trabalho como desenvolvedor Web Fullstack
   
-🌱 Atualmente estou aprendendo : Laravel
+🌱 Atualmente estou aprendendo : Java
 
   💬 Em busca de novos contatos e amizades !
 
